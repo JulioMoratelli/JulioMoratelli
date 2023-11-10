@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Nest.js](https://img.shields.io/badge/Nest-F7DF1E?style=for-the-badge&logo=nestjs&logoColor=black)&nbsp;
-![Laravel.php](https://img.shields.io/badge/Laravel-F7DF1E?style=for-the-badge&logo=laravel&logoColor=black)&nbsp;]
+![Laravel.php](https://img.shields.io/badge/Laravel-F7DF1E?style=for-the-badge&logo=laravel&logoColor=black)&nbsp;
 
 
 #### Studying in this moment:
