@@ -19,11 +19,8 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Nest.js](https://img.shields.io/badge/Nest-F7DF1E?style=for-the-badge&logo=nestjs&logoColor=black)&nbsp;
 ![Laravel.php](https://img.shields.io/badge/Laravel-F7DF1E?style=for-the-badge&logo=laravel&logoColor=black)&nbsp;
-
-
-#### Studying in this moment:
-
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+
 
 #### Databases:
 
